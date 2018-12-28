@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 make text
 make
 test i am in dev
-test i am in dev2
+test i am in master
